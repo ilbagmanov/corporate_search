@@ -1,0 +1,2643 @@
+{'count': 1, 'inverted_array': ['8'], 'word': 'простой'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'иерусалимский'}
+{'count': 2, 'inverted_array': ['8', '23'], 'word': 'святой'}
+{'count': 7, 'inverted_array': ['8', '13', '11', '26', '1', '20', '10'], 'word': 'смотреть'}
+{'count': 16, 'inverted_array': ['8', '13', '19', '7', '14', '11', '26', '25', '1', '9', '17', '20', '3', '10', '6', '15'], 'word': 'место'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'честь'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'отмечать'}
+{'count': 3, 'inverted_array': ['8', '23', '4'], 'word': 'женщина'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'остановка'}
+{'count': 2, 'inverted_array': ['8', '7'], 'word': 'позади'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'крестный'}
+{'count': 25, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '2', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'год'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'хабад'}
+{'count': 2, 'inverted_array': ['8', '23'], 'word': 'иметься'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'крест'}
+{'count': 6, 'inverted_array': ['8', '23', '25', '10', '18', '15'], 'word': 'второй'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'условие'}
+{'count': 4, 'inverted_array': ['8', '13', '28', '4'], 'word': 'согласно'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'голгофа'}
+{'count': 14, 'inverted_array': ['8', '16', '21', '13', '0', '19', '7', '23', '25', '28', '9', '17', '20', '10'], 'word': 'сайт'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'интерьер'}
+{'count': 4, 'inverted_array': ['8', '21', '14', '12'], 'word': 'основание'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'гибель'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'страница'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'иерусалим'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'латинский'}
+{'count': 2, 'inverted_array': ['8', '23'], 'word': 'церковь'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'случай'}
+{'count': 16, 'inverted_array': ['8', '21', '5', '19', '7', '23', '14', '11', '26', '25', '28', '20', '4', '3', '10', '15'], 'word': 'март'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'старое'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'рь'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'отредактировать'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'мочь'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'действовать'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'заставлять'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'предание'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'монастырь'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'харлампий'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'араб'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'лицензия'}
+{'count': 18, 'inverted_array': ['8', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '28', '17', '20', '4', '3', '18', '15'], 'word': 'примечание'}
+{'count': 17, 'inverted_array': ['8', '16', '21', '5', '0', '19', '7', '23', '11', '26', '25', '1', '9', '17', '20', '10', '15'], 'word': 'ссылка'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'осуждение'}
+{'count': 2, 'inverted_array': ['8', '21'], 'word': 'нести'}
+{'count': 25, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '2', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'дополнительный'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'недалеко'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'товарный'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'помочь'}
+{'count': 11, 'inverted_array': ['8', '16', '13', '7', '23', '14', '28', '9', '20', '4', '18'], 'word': 'город'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'зарегистрировать'}
+{'count': 5, 'inverted_array': ['8', '23', '2', '28', '4'], 'word': 'далее'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'пилат'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'окружный'}
+{'count': 3, 'inverted_array': ['8', '10', '15'], 'word': 'день'}
+{'count': 2, 'inverted_array': ['8', '2'], 'word': 'решение'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'архимандрит'}
+{'count': 2, 'inverted_array': ['8', '10'], 'word': 'вновь'}
+{'count': 6, 'inverted_array': ['8', '21', '13', '23', '2', '28'], 'word': 'часть'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'симона'}
+{'count': 2, 'inverted_array': ['8', '17'], 'word': 'израиль'}
+{'count': 14, 'inverted_array': ['8', '21', '5', '13', '7', '23', '11', '26', '1', '28', '17', '20', '4', '3'], 'word': 'обращение'}
+{'count': 14, 'inverted_array': ['8', '21', '13', '7', '23', '14', '11', '28', '9', '17', '20', '4', '10', '18'], 'word': 'содержание'}
+{'count': 10, 'inverted_array': ['8', '21', '5', '19', '11', '28', '17', '20', '10', '15'], 'word': 'май'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'православие'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'христос'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'ханка'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'виа'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'народ'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'коробкин'}
+{'count': 4, 'inverted_array': ['8', '25', '9', '17'], 'word': 'победитель'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'камень'}
+{'count': 8, 'inverted_array': ['8', '21', '0', '23', '25', '28', '9', '3'], 'word': 'официальный'}
+{'count': 4, 'inverted_array': ['8', '21', '23', '4'], 'word': 'расположить'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'знак'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'паломничество'}
+{'count': 5, 'inverted_array': ['8', '13', '28', '10', '18'], 'word': 'находиться'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'ашлихой'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'долороза'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'источник'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'издалёка'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'осудительный'}
+{'count': 26, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '2', '11', '26', '25', '12', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'организация'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'святыня'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'врата'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'киринеянин'}
+{'count': 4, 'inverted_array': ['8', '23', '28', '10'], 'word': 'западный'}
+{'count': 2, 'inverted_array': ['8', '1'], 'word': 'православный'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'надпись'}
+{'count': 2, 'inverted_array': ['8', '11'], 'word': 'назвать'}
+{'count': 5, 'inverted_array': ['8', '23', '2', '28', '4'], 'word': 'широта'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'иисус'}
+{'count': 4, 'inverted_array': ['8', '13', '14', '2'], 'word': 'работа'}
+{'count': 2, 'inverted_array': ['8', '1'], 'word': 'христианский'}
+{'count': 2, 'inverted_array': ['8', '13'], 'word': 'старый'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'икона'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'ведение'}
+{'count': 2, 'inverted_array': ['8', '6'], 'word': 'воин'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'отдельный'}
+{'count': 13, 'inverted_array': ['8', '16', '5', '13', '23', '2', '1', '28', '9', '4', '3', '10', '18'], 'word': 'история'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'традиция'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'настоятель'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'последний'}
+{'count': 3, 'inverted_array': ['8', '13', '0'], 'word': 'путь'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'текст'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'храм'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'материал'}
+{'count': 6, 'inverted_array': ['8', '13', '2', '11', '4', '10'], 'word': 'состояние'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'восьмой'}
+{'count': 2, 'inverted_array': ['8', '2'], 'word': 'архитектура'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'стена'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'совершить'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'паломнический'}
+{'count': 5, 'inverted_array': ['8', '23', '2', '11', '4'], 'word': 'так'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'спаситель'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'ариадна'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'видный'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'стояние'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'невидимый'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'впереди'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'иконостас'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'монаст'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'предсказать'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'распятие'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'фотография'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'квартал'}
+{'count': 2, 'inverted_array': ['8', '2'], 'word': 'путеводитель'}
+{'count': 4, 'inverted_array': ['8', '13', '23', '12'], 'word': 'построить'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'нить'}
+{'count': 20, 'inverted_array': ['8', '21', '5', '13', '19', '7', '23', '14', '11', '26', '25', '1', '28', '17', '20', '4', '3', '10', '18', '15'], 'word': 'дата'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'энциклопедия'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'местоположение'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'доступный'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'бейт'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'толпа'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'судный'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'пришествие'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'некоммерческий'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'этот'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'церковный'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'каллиста'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'греча'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'харалампия'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'улица'}
+{'count': 2, 'inverted_array': ['8', '7'], 'word': 'мужской'}
+{'count': 2, 'inverted_array': ['8', '21'], 'word': 'достаточно'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'посредственный'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'википедия'}
+{'count': 24, 'inverted_array': ['8', '16', '21', '5', '13', '0', '19', '7', '23', '14', '11', '26', '25', '1', '28', '9', '17', '20', '4', '3', '10', '18', '6', '15'], 'word': 'свободный'}
+{'count': 3, 'inverted_array': ['8', '19', '10'], 'word': 'х'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'обратиться'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'лк'}
+{'count': 2, 'inverted_array': ['8', '20'], 'word': 'предположительно'}
+{'count': 2, 'inverted_array': ['8', '9'], 'word': 'шестой'}
+{'count': 1, 'inverted_array': ['8'], 'word': 'произойти'}
+{'count': 2, 'inverted_array': ['8', '3'], 'word': 'конфессия'}
+{'count': 13, 'inverted_array': ['8', '16', '13', '23', '11', '25', '28', '9', '17', '20', '4', '3', '15'], 'word': 'страна'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'серийный'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'убийца'}
+{'count': 8, 'inverted_array': ['16', '21', '13', '0', '11', '28', '9', '10'], 'word': 'который'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'длительность'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'терроризировать'}
+{'count': 4, 'inverted_array': ['16', '21', '2', '3'], 'word': 'язык'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'вон'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'автор'}
+{'count': 3, 'inverted_array': ['16', '21', '12'], 'word': 'роль'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'смитя'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'драма'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'психопат'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'ради'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'газетный'}
+{'count': 3, 'inverted_array': ['16', '20', '15'], 'word': 'начинать'}
+{'count': 5, 'inverted_array': ['16', '21', '5', '23', '2'], 'word': 'английский'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'режиссёр'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'репортёр'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'кинг'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'пэрри'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'тони'}
+{'count': 2, 'inverted_array': ['16', '10'], 'word': 'лос'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'харрисон'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'кроуфорд'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'тейлор'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'измученный'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'безжалостный'}
+{'count': 2, 'inverted_array': ['16', '10'], 'word': 'продать'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'сняться'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'винс'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'дэвид'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'эксплуатироваться'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'сценарий'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'джада'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'роберт'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'дистрибьютор'}
+{'count': 4, 'inverted_array': ['16', '21', '0', '15'], 'word': 'композитор'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'йенссный'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'сюжет'}
+{'count': 2, 'inverted_array': ['16', '21'], 'word': 'жанр'}
+{'count': 2, 'inverted_array': ['16', '10'], 'word': 'анджелес'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'алан'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'подхлёстывать'}
+{'count': 8, 'inverted_array': ['16', '0', '1', '28', '4', '10', '6', '15'], 'word': 'июнь'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'газета'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'пэйт'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'мастерсон'}
+{'count': 2, 'inverted_array': ['16', '10'], 'word': 'мина'}
+{'count': 9, 'inverted_array': ['16', '24', '29', '23', '2', '11', '10', '27', '15'], 'word': 'это'}
+{'count': 15, 'inverted_array': ['16', '21', '5', '13', '0', '19', '7', '23', '26', '25', '17', '4', '10', '18', '6'], 'word': 'англ'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'перрино'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'розенман'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'джад'}
+{'count': 2, 'inverted_array': ['16', '21'], 'word': 'издатель'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'леонард'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'телевизионный'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'отслежка'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'микки'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'рурк'}
+{'count': 3, 'inverted_array': ['16', '2', '10'], 'word': 'сша'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'сенсация'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'питер'}
+{'count': 4, 'inverted_array': ['16', '9', '3', '10'], 'word': 'главный'}
+{'count': 3, 'inverted_array': ['16', '0', '10'], 'word': 'шаг'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'страх'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'раздувать'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'кинокомпания'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'порочный'}
+{'count': 1, 'inverted_array': ['16'], 'word': 'босс'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'движок'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'известно'}
+{'count': 2, 'inverted_array': ['21', '10'], 'word': 'поражение'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'исход'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'класс'}
+{'count': 9, 'inverted_array': ['21', '7', '2', '26', '25', '9', '17', '20', '10'], 'word': 'команда'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'должный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'продажа'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'точный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'танк'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'оказываться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'зенитка'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'чей'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'игровой'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'эффективный'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'контроль'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'активация'}
+{'count': 2, 'inverted_array': ['21', '18'], 'word': 'сторона'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'оружие'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'атака'}
+{'count': 3, 'inverted_array': ['21', '1', '17'], 'word': 'смерть'}
+{'count': 2, 'inverted_array': ['21', '10'], 'word': 'они'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'обладать'}
+{'count': 3, 'inverted_array': ['21', '5', '12'], 'word': 'объект'}
+{'count': 3, 'inverted_array': ['21', '18', '15'], 'word': 'два'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'дальнобойный'}
+{'count': 11, 'inverted_array': ['21', '5', '13', '7', '23', '11', '26', '28', '17', '20', '3'], 'word': 'архивировать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'поддержка'}
+{'count': 2, 'inverted_array': ['21', '10'], 'word': 'менее'}
+{'count': 8, 'inverted_array': ['21', '13', '7', '2', '10', '18', '6', '15'], 'word': 'первый'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'убитый'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'выстрел'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'целик'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'изготовка'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'лицо'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'подбираться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'укрепить'}
+{'count': 4, 'inverted_array': ['21', '17', '10', '15'], 'word': 'участник'}
+{'count': 4, 'inverted_array': ['21', '25', '28', '15'], 'word': 'средний'}
+{'count': 2, 'inverted_array': ['21', '23'], 'word': 'каждый'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'снайпер'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'привязываться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'совместимый'}
+{'count': 4, 'inverted_array': ['21', '13', '14', '2'], 'word': 'управление'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'дымовой'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'бой'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'захватить'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'детализация'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'текстура'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'неконтролируемый'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'наоборот'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'разработка'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'нужно'}
+{'count': 2, 'inverted_array': ['21', '10'], 'word': 'игрок'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'пользователь'}
+{'count': 3, 'inverted_array': ['21', '19', '7'], 'word': 'обновление'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'показывать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'определённый'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'перезарядка'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'истечение'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'подкрепление'}
+{'count': 6, 'inverted_array': ['21', '11', '28', '4', '3', '10'], 'word': 'расстояние'}
+{'count': 2, 'inverted_array': ['21', '18'], 'word': 'платформа'}
+{'count': 3, 'inverted_array': ['21', '0', '23'], 'word': 'некоторый'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'любой'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'полуавтоматический'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'взорвать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'таймер'}
+{'count': 3, 'inverted_array': ['21', '9', '10'], 'word': 'играть'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'наблюдать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'уничтожение'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'мощность'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'захват'}
+{'count': 7, 'inverted_array': ['21', '19', '7', '2', '26', '20', '10'], 'word': 'игра'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'гранат'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'идеальный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'упор'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'комбинированный'}
+{'count': 3, 'inverted_array': ['21', '2', '12'], 'word': 'принцип'}
+{'count': 3, 'inverted_array': ['21', '2', '12'], 'word': 'обеспечение'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'штурмовик'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'дистрибуция'}
+{'count': 4, 'inverted_array': ['21', '13', '14', '6'], 'word': 'несколько'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'ракета'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'флаг'}
+{'count': 2, 'inverted_array': ['21', '15'], 'word': 'малый'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'позволять'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'союзник'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'оценка'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'шесть'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'осколочный'}
+{'count': 3, 'inverted_array': ['21', '11', '10'], 'word': 'иметь'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'многопользовательский'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'пригодный'}
+{'count': 3, 'inverted_array': ['21', '14', '17'], 'word': 'рейтинг'}
+{'count': 11, 'inverted_array': ['21', '13', '19', '23', '14', '2', '25', '28', '9', '10', '18'], 'word': 'время'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'носитель'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'уязвимый'}
+{'count': 2, 'inverted_array': ['21', '10'], 'word': 'использовать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'прикрытие'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'одновременный'}
+{'count': 3, 'inverted_array': ['21', '7', '17'], 'word': 'командный'}
+{'count': 2, 'inverted_array': ['21', '10'], 'word': 'хотя'}
+{'count': 3, 'inverted_array': ['21', '2', '9'], 'word': 'связь'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'минимальный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'положительный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'устанавливать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'графика'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'возрастной'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'версия'}
+{'count': 6, 'inverted_array': ['21', '13', '14', '11', '26', '18'], 'word': 'являться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'заряд'}
+{'count': 2, 'inverted_array': ['21', '0'], 'word': 'др'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'рядом'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'винтовочный'}
+{'count': 2, 'inverted_array': ['21', '6'], 'word': 'создать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'майк'}
+{'count': 2, 'inverted_array': ['21', '10'], 'word': 'сделать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'стрелка'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'максимально'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'точка'}
+{'count': 2, 'inverted_array': ['21', '1'], 'word': 'защитить'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'гб'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'схожий'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'удерживать'}
+{'count': 4, 'inverted_array': ['21', '13', '2', '11'], 'word': 'вид'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'радиус'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'возвращаться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'мощный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'карта'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'стрелять'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'режим'}
+{'count': 7, 'inverted_array': ['21', '5', '19', '7', '17', '20', '4'], 'word': 'сентябрь'}
+{'count': 3, 'inverted_array': ['21', '28', '4'], 'word': 'лето'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'обзор'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'мушка'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'интерфейс'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'взрыв'}
+{'count': 3, 'inverted_array': ['21', '28', '4'], 'word': 'составлять'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'прицеливание'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'вражеский'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'выбирать'}
+{'count': 2, 'inverted_array': ['21', '0'], 'word': 'успех'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'создатель'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'автоматический'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'просто'}
+{'count': 2, 'inverted_array': ['21', '11'], 'word': 'наиболее'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'тактика'}
+{'count': 5, 'inverted_array': ['21', '26', '9', '20', '10'], 'word': 'достижение'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'видеокарта'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'оставаться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'фиксировать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'эффективно'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'убойный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'гранатомётчик'}
+{'count': 9, 'inverted_array': ['21', '13', '7', '14', '28', '20', '10', '18', '6'], 'word': 'июль'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'оборона'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'кулак'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'универсальный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'вооружение'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'винтовка'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'удар'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'одновременно'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'отдача'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'требоваться'}
+{'count': 4, 'inverted_array': ['21', '13', '10', '6'], 'word': 'получить'}
+{'count': 6, 'inverted_array': ['21', '5', '13', '9', '17', '10'], 'word': 'другой'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'процесс'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'скорострельность'}
+{'count': 4, 'inverted_array': ['21', '11', '28', '18'], 'word': 'зона'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'значительный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'координация'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'немецкий'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'сошка'}
+{'count': 3, 'inverted_array': ['21', '14', '10'], 'word': 'друг'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'благодаря'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'технический'}
+{'count': 2, 'inverted_array': ['21', '15'], 'word': 'требовать'}
+{'count': 2, 'inverted_array': ['21', '0'], 'word': 'установленный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'шутереть'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'точность'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'пулемётчик'}
+{'count': 3, 'inverted_array': ['21', '25', '10'], 'word': 'победа'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'инициировать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'прицел'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'сила'}
+{'count': 2, 'inverted_array': ['21', '11'], 'word': 'преимущественно'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'вооружённый'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'карабин'}
+{'count': 2, 'inverted_array': ['21', '13'], 'word': 'движение'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'дальность'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'перегреться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'присутствие'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'защита'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'повлиять'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'переиздание'}
+{'count': 7, 'inverted_array': ['21', '7', '23', '14', '3', '10', '15'], 'word': 'декабрь'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'отыгрывать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'оз'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'оптический'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'уязвимость'}
+{'count': 3, 'inverted_array': ['21', '2', '28'], 'word': 'система'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'фланговый'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'мораск'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'разработчик'}
+{'count': 5, 'inverted_array': ['21', '23', '28', '4', '3'], 'word': 'человек'}
+{'count': 3, 'inverted_array': ['21', '28', '10'], 'word': 'больший'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'сражение'}
+{'count': 3, 'inverted_array': ['21', '12', '6'], 'word': 'задача'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'дальний'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'становиться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'солдат'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'компьютерный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'агрегатор'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'стрельба'}
+{'count': 4, 'inverted_array': ['21', '7', '26', '10'], 'word': 'позиция'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'ггц'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'пространство'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'обеспечить'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'ближний'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'улучшить'}
+{'count': 4, 'inverted_array': ['21', '5', '14', '15'], 'word': 'дать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'оглушить'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'сервис'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'простреливать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'возрождаться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'уничтожать'}
+{'count': 3, 'inverted_array': ['21', '9', '10'], 'word': 'раунд'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'системный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'ручной'}
+{'count': 3, 'inverted_array': ['21', '2', '15'], 'word': 'помощь'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'борьба'}
+{'count': 4, 'inverted_array': ['21', '7', '25', '10'], 'word': 'третий'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'процессор'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'низкий'}
+{'count': 7, 'inverted_array': ['21', '0', '19', '14', '9', '10', '6'], 'word': 'стать'}
+{'count': 2, 'inverted_array': ['21', '23'], 'word': 'территория'}
+{'count': 2, 'inverted_array': ['21', '25'], 'word': 'выпуск'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'летальный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'обновить'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'взрывчатка'}
+{'count': 3, 'inverted_array': ['21', '11', '10'], 'word': 'американский'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'взрываться'}
+{'count': 4, 'inverted_array': ['21', '13', '2', '12'], 'word': 'цель'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'воевать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'соединение'}
+{'count': 2, 'inverted_array': ['21', '15'], 'word': 'частность'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'взаимодействовать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'обозначить'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'мб'}
+{'count': 3, 'inverted_array': ['21', '5', '10'], 'word': 'очень'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'портировать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'пробежать'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'необходимо'}
+{'count': 2, 'inverted_array': ['21', '2'], 'word': 'различный'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'клавиатура'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'пережить'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'серьёзно'}
+{'count': 2, 'inverted_array': ['21', '11'], 'word': 'поверхность'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'остальной'}
+{'count': 2, 'inverted_array': ['21', '14'], 'word': 'интернет'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'полностью'}
+{'count': 4, 'inverted_array': ['21', '11', '28', '18'], 'word': 'количество'}
+{'count': 2, 'inverted_array': ['21', '10'], 'word': 'мышь'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'уникальный'}
+{'count': 10, 'inverted_array': ['21', '13', '19', '7', '14', '26', '28', '20', '4', '10'], 'word': 'февраль'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'вермахт'}
+{'count': 2, 'inverted_array': ['21', '12'], 'word': 'требование'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'течение'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'отзыв'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'подключиться'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'изготовиться'}
+{'count': 5, 'inverted_array': ['21', '23', '28', '4', '3'], 'word': 'цифровой'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'встроить'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'нахождение'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'крайне'}
+{'count': 2, 'inverted_array': ['21', '11'], 'word': 'появление'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'огонь'}
+{'count': 7, 'inverted_array': ['21', '23', '11', '25', '28', '20', '4'], 'word': 'апрель'}
+{'count': 1, 'inverted_array': ['21'], 'word': 'перегреваться'}
+{'count': 2, 'inverted_array': ['21', '1'], 'word': 'опасный'}
+{'count': 9, 'inverted_array': ['5', '13', '7', '23', '14', '17', '4', '10', '18'], 'word': 'медиафайл'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'восхождение'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'эпоха'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'созвездие'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'размер'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'лучевой'}
+{'count': 3, 'inverted_array': ['5', '2', '12'], 'word': 'исследование'}
+{'count': 2, 'inverted_array': ['5', '25'], 'word': 'скорость'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'обозначение'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'круглый'}
+{'count': 9, 'inverted_array': ['5', '13', '7', '23', '14', '17', '4', '10', '18'], 'word': 'викисклад'}
+{'count': 2, 'inverted_array': ['5', '13'], 'word': 'оригинальный'}
+{'count': 2, 'inverted_array': ['5', '18'], 'word': 'открытие'}
+{'count': 3, 'inverted_array': ['5', '13', '18'], 'word': 'открыть'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'открыватель'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'склонение'}
+{'count': 2, 'inverted_array': ['5', '28'], 'word': 'прямой'}
+{'count': 2, 'inverted_array': ['5', '17'], 'word': 'список'}
+{'count': 2, 'inverted_array': ['5', '19'], 'word': 'кит'}
+{'count': 8, 'inverted_array': ['5', '0', '19', '7', '2', '25', '12', '10'], 'word': 'общий'}
+{'count': 3, 'inverted_array': ['5', '1', '18'], 'word': 'тип'}
+{'count': 2, 'inverted_array': ['5', '11'], 'word': 'видимый'}
+{'count': 2, 'inverted_array': ['5', '11'], 'word': 'величина'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'пов'}
+{'count': 10, 'inverted_array': ['5', '19', '7', '23', '2', '11', '1', '28', '17', '4'], 'word': 'м'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'дрейер'}
+{'count': 6, 'inverted_array': ['5', '7', '23', '2', '28', '17'], 'word': 'база'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'пересмотреть'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'галактика'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'линзообразный'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'французский'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'каталог'}
+{'count': 2, 'inverted_array': ['5', '12'], 'word': 'характеристика'}
+{'count': 6, 'inverted_array': ['5', '2', '11', '12', '9', '18'], 'word': 'форма'}
+{'count': 5, 'inverted_array': ['5', '23', '2', '28', '4'], 'word': 'данные'}
+{'count': 3, 'inverted_array': ['5', '11', '25'], 'word': 'положение'}
+{'count': 5, 'inverted_array': ['5', '13', '23', '25', '3'], 'word': 'км'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'зв'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'яркость'}
+{'count': 5, 'inverted_array': ['5', '13', '7', '10', '15'], 'word': 'новый'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'альберт'}
+{'count': 5, 'inverted_array': ['5', '19', '7', '20', '15'], 'word': 'информация'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'тусклый'}
+{'count': 3, 'inverted_array': ['5', '2', '25'], 'word': 'ч'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'фотографический'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'описание'}
+{'count': 6, 'inverted_array': ['5', '13', '19', '7', '9', '20'], 'word': 'октябрь'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'публикация'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'викидать'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'маленький'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'угловой'}
+{'count': 3, 'inverted_array': ['5', '17', '15'], 'word': 'посвятить'}
+{'count': 1, 'inverted_array': ['5'], 'word': 'наблюдательный'}
+{'count': 9, 'inverted_array': ['5', '13', '0', '19', '14', '26', '9', '20', '15'], 'word': 'август'}
+{'count': 3, 'inverted_array': ['24', '29', '27'], 'word': 'документ'}
+{'count': 4, 'inverted_array': ['24', '29', '2', '27'], 'word': 'экспериментальный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'соединять'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'пока'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'мойнт'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'перестраивать'}
+{'count': 2, 'inverted_array': ['13', '28'], 'word': 'применять'}
+{'count': 2, 'inverted_array': ['13', '18'], 'word': 'линия'}
+{'count': 3, 'inverted_array': ['13', '23', '10'], 'word': 'затем'}
+{'count': 2, 'inverted_array': ['13', '26'], 'word': 'она'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'миля'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'предназначаться'}
+{'count': 8, 'inverted_array': ['13', '7', '28', '17', '20', '4', '3', '10'], 'word': 'состав'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'храниться'}
+{'count': 4, 'inverted_array': ['13', '9', '20', '10'], 'word': 'самый'}
+{'count': 3, 'inverted_array': ['13', '23', '18'], 'word': 'округ'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'музейный'}
+{'count': 2, 'inverted_array': ['13', '6'], 'word': 'настоящий'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'паровоз'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'портмадог'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'передать'}
+{'count': 2, 'inverted_array': ['13', '11'], 'word': 'существовать'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'тяга'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'законсервировать'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'строительство'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'продлить'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'соответствующий'}
+{'count': 3, 'inverted_array': ['13', '17', '20'], 'word': 'оригинал'}
+{'count': 4, 'inverted_array': ['13', '0', '14', '9'], 'word': 'основать'}
+{'count': 12, 'inverted_array': ['13', '0', '23', '2', '28', '9', '20', '4', '3', '10', '6', '15'], 'word': 'г'}
+{'count': 2, 'inverted_array': ['13', '9'], 'word': 'группа'}
+{'count': 2, 'inverted_array': ['13', '11'], 'word': 'участок'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'валлийский'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'рассесть'}
+{'count': 2, 'inverted_array': ['13', '25'], 'word': 'дорога'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'реконструкция'}
+{'count': 2, 'inverted_array': ['13', '0'], 'word': 'компания'}
+{'count': 2, 'inverted_array': ['13', '11'], 'word': 'кроме'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'браун'}
+{'count': 3, 'inverted_array': ['13', '28', '10'], 'word': 'право'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'упомянуть'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'нагорный'}
+{'count': 4, 'inverted_array': ['13', '19', '10', '18'], 'word': 'следующий'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'активный'}
+{'count': 3, 'inverted_array': ['13', '0', '14'], 'word': 'работать'}
+{'count': 4, 'inverted_array': ['13', '7', '9', '10'], 'word': 'отношение'}
+{'count': 2, 'inverted_array': ['13', '25'], 'word': 'длина'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'вагон'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'пользоваться'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'тепловоз'}
+{'count': 2, 'inverted_array': ['13', '23'], 'word': 'экспонат'}
+{'count': 5, 'inverted_array': ['13', '19', '23', '2', '10'], 'word': 'начало'}
+{'count': 2, 'inverted_array': ['13', '18'], 'word': 'станция'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'дело'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'фестиниогский'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'карнарвон'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'каковой'}
+{'count': 2, 'inverted_array': ['13', '23'], 'word': 'ранний'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'соединяться'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'неоднократно'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'превратить'}
+{'count': 5, 'inverted_array': ['13', '7', '2', '20', '6'], 'word': 'участие'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'валл'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'близ'}
+{'count': 6, 'inverted_array': ['13', '23', '11', '17', '3', '18'], 'word': 'литература'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'железнодорожный'}
+{'count': 3, 'inverted_array': ['13', '0', '15'], 'word': 'число'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'сообщество'}
+{'count': 2, 'inverted_array': ['13', '1'], 'word': 'исторический'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'депо'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'железный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'подчинение'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'бетгелерт'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'переименовать'}
+{'count': 5, 'inverted_array': ['13', '0', '20', '4', '15'], 'word': 'копия'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'закрытый'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'вагонный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'уэльс'}
+{'count': 2, 'inverted_array': ['13', '3'], 'word': 'земля'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'ветка'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'уайнваура'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'хозяйственный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'соседствовать'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'надежда'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'кембрийский'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'насыпь'}
+{'count': 3, 'inverted_array': ['13', '23', '28'], 'word': 'мм'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'бить'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'гуинет'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'возрождение'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'гелерот'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'истинный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'трайт'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'узкоколейный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'мойнтом'}
+{'count': 2, 'inverted_array': ['13', '11'], 'word': 'частый'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'лтд'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'чиниться'}
+{'count': 2, 'inverted_array': ['13', '28'], 'word': 'юг'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'мытарство'}
+{'count': 3, 'inverted_array': ['13', '17', '4'], 'word': 'великий'}
+{'count': 4, 'inverted_array': ['13', '23', '2', '20'], 'word': 'великобритания'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'пен'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'использоваться'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'талиллинский'}
+{'count': 4, 'inverted_array': ['13', '28', '4', '3'], 'word': 'входить'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'прокладка'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'пригородный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'сюда'}
+{'count': 2, 'inverted_array': ['13', '9'], 'word': 'пора'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'соглашение'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'выйти'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'полотно'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'ферма'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'носить'}
+{'count': 3, 'inverted_array': ['13', '2', '15'], 'word': 'программа'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'очередь'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'послевоенный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'изначально'}
+{'count': 3, 'inverted_array': ['13', '1', '9'], 'word': 'тот'}
+{'count': 2, 'inverted_array': ['13', '10'], 'word': 'пять'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'втянуться'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'бетгелертский'}
+{'count': 3, 'inverted_array': ['13', '10', '15'], 'word': 'участвовать'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'председатель'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'прислать'}
+{'count': 5, 'inverted_array': ['13', '23', '9', '3', '6'], 'word': 'название'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'произвести'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'пассажирский'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'весьма'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'неопределённый'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'избрать'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'остановиться'}
+{'count': 2, 'inverted_array': ['13', '10'], 'word': 'бывший'}
+{'count': 2, 'inverted_array': ['13', '23'], 'word': 'здание'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'дотянуться'}
+{'count': 3, 'inverted_array': ['13', '0', '2'], 'word': 'современный'}
+{'count': 2, 'inverted_array': ['13', '10'], 'word': 'соответствовать'}
+{'count': 2, 'inverted_array': ['13', '7'], 'word': 'отвести'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'маркетинговый'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'петля'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'динас'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'приобрести'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'производиться'}
+{'count': 2, 'inverted_array': ['13', '0'], 'word': 'дальнейший'}
+{'count': 2, 'inverted_array': ['13', '25'], 'word': 'протяжённость'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'далёкий'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'расширяться'}
+{'count': 2, 'inverted_array': ['13', '6'], 'word': 'лёгкий'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'неиспользуемый'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'прежний'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'постройка'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'портмадога'}
+{'count': 2, 'inverted_array': ['13', '10'], 'word': 'оба'}
+{'count': 7, 'inverted_array': ['13', '0', '7', '14', '2', '10', '15'], 'word': 'свой'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'паровозный'}
+{'count': 2, 'inverted_array': ['13', '4'], 'word': 'север'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'запасный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'мысль'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'реконструировать'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'оказаться'}
+{'count': 4, 'inverted_array': ['13', '7', '14', '11'], 'word': 'разный'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'долгий'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'возродить'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'сарай'}
+{'count': 3, 'inverted_array': ['13', '12', '6'], 'word': 'статус'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'маура'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'энтузиаст'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'проложить'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'достаться'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'образовать'}
+{'count': 2, 'inverted_array': ['13', '23'], 'word': 'северный'}
+{'count': 3, 'inverted_array': ['13', '0', '10'], 'word': 'прежде'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'узкоколейка'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'ставить'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'возвести'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'принимать'}
+{'count': 1, 'inverted_array': ['13'], 'word': 'поездной'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'машо'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'пёрышко'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'коллектив'}
+{'count': 5, 'inverted_array': ['0', '23', '9', '4', '15'], 'word': 'век'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'запись'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'записать'}
+{'count': 2, 'inverted_array': ['0', '23'], 'word': 'средневековый'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'экземпляр'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'исполнительский'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'гийома'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'пейджема'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'опираться'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'музыкант'}
+{'count': 2, 'inverted_array': ['0', '12'], 'word': 'концепция'}
+{'count': 2, 'inverted_array': ['0', '10'], 'word': 'итог'}
+{'count': 2, 'inverted_array': ['0', '15'], 'word': 'музыка'}
+{'count': 2, 'inverted_array': ['0', '23'], 'word': 'ещё'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'ансамбль'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'руководить'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'следовать'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'дискография'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'кёркбить'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'пластинка'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'привлекаться'}
+{'count': 2, 'inverted_array': ['0', '15'], 'word': 'произведение'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'продолжать'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'уста'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'голос'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'тираж'}
+{'count': 2, 'inverted_array': ['0', '2'], 'word': 'вокальный'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'разойтись'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'британский'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'франческо'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'джон'}
+{'count': 4, 'inverted_array': ['0', '20', '4', '15'], 'word': 'архивный'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'медиевист'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'старинный'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'секвенция'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'гимн'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'готический'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'диск'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'гиперион'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'бингенский'}
+{'count': 2, 'inverted_array': ['0', '11'], 'word': 'особенно'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'кристофер'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'творчество'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'звукозаписывающий'}
+{'count': 5, 'inverted_array': ['0', '23', '28', '4', '10'], 'word': 'период'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'дюфай'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'выпустить'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'ландиня'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'эмма'}
+{'count': 2, 'inverted_array': ['0', '11'], 'word': 'альбом'}
+{'count': 2, 'inverted_array': ['0', '3'], 'word': 'занятый'}
+{'count': 2, 'inverted_array': ['0', '15'], 'word': 'репертуар'}
+{'count': 2, 'inverted_array': ['0', '10'], 'word': 'окончание'}
+{'count': 5, 'inverted_array': ['0', '2', '17', '20', '15'], 'word': 'молодой'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'музыковед'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'специализироваться'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'уход'}
+{'count': 2, 'inverted_array': ['0', '10'], 'word': 'контракт'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'данстейбнуть'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'пейдж'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'раннеренессансный'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'хильдегард'}
+{'count': 2, 'inverted_array': ['0', '10'], 'word': 'дебютный'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'записывать'}
+{'count': 2, 'inverted_array': ['0', '15'], 'word': 'исполнение'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'де'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'тавенер'}
+{'count': 3, 'inverted_array': ['0', '14', '11'], 'word': 'важный'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'опыт'}
+{'count': 1, 'inverted_array': ['0'], 'word': 'господний'}
+{'count': 5, 'inverted_array': ['19', '7', '9', '10', '15'], 'word': 'сезон'}
+{'count': 3, 'inverted_array': ['19', '7', '20'], 'word': 'бронза'}
+{'count': 9, 'inverted_array': ['19', '7', '23', '1', '9', '17', '20', '10', '18'], 'word': 'ноябрь'}
+{'count': 2, 'inverted_array': ['19', '7'], 'word': 'калгари'}
+{'count': 6, 'inverted_array': ['19', '7', '28', '9', '17', '10'], 'word': 'результат'}
+{'count': 6, 'inverted_array': ['19', '7', '26', '17', '20', '10'], 'word': 'чемпионат'}
+{'count': 2, 'inverted_array': ['19', '7'], 'word': 'конькобежец'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'спринт'}
+{'count': 5, 'inverted_array': ['19', '7', '14', '9', '10'], 'word': 'занять'}
+{'count': 5, 'inverted_array': ['19', '2', '11', '25', '10'], 'word': 'й'}
+{'count': 2, 'inverted_array': ['19', '17'], 'word': 'сочи'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'гирин'}
+{'count': 2, 'inverted_array': ['19', '10'], 'word': 'дебютировать'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'кататься'}
+{'count': 8, 'inverted_array': ['19', '14', '28', '17', '20', '4', '10', '15'], 'word': 'январь'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'упр'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'азия'}
+{'count': 5, 'inverted_array': ['19', '7', '2', '17', '15'], 'word': 'международный'}
+{'count': 2, 'inverted_array': ['19', '7'], 'word': 'зимний'}
+{'count': 7, 'inverted_array': ['19', '7', '23', '14', '11', '10', '6'], 'word': 'также'}
+{'count': 4, 'inverted_array': ['19', '7', '25', '12'], 'word': 'этап'}
+{'count': 3, 'inverted_array': ['19', '26', '10'], 'word': 'завершить'}
+{'count': 2, 'inverted_array': ['19', '7'], 'word': 'конькобежка'}
+{'count': 3, 'inverted_array': ['19', '7', '20'], 'word': 'медаль'}
+{'count': 2, 'inverted_array': ['19', '20'], 'word': 'специализация'}
+{'count': 5, 'inverted_array': ['19', '7', '2', '28', '15'], 'word': 'национальный'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'бег'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'отбор'}
+{'count': 2, 'inverted_array': ['19', '7'], 'word': 'союз'}
+{'count': 3, 'inverted_array': ['19', '7', '20'], 'word': 'олимпийский'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'херенвена'}
+{'count': 4, 'inverted_array': ['19', '7', '9', '10'], 'word': 'выиграть'}
+{'count': 3, 'inverted_array': ['19', '17', '10'], 'word': 'хороший'}
+{'count': 3, 'inverted_array': ['19', '7', '20'], 'word': 'золото'}
+{'count': 2, 'inverted_array': ['19', '7'], 'word': 'зачёт'}
+{'count': 2, 'inverted_array': ['19', '7'], 'word': 'конькобежный'}
+{'count': 4, 'inverted_array': ['19', '7', '17', '20'], 'word': 'спорт'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'пиньинь'}
+{'count': 8, 'inverted_array': ['19', '7', '14', '26', '1', '17', '10', '15'], 'word': 'родиться'}
+{'count': 5, 'inverted_array': ['19', '7', '14', '17', '20'], 'word': 'биография'}
+{'count': 3, 'inverted_array': ['19', '17', '20'], 'word': 'олимпиада'}
+{'count': 2, 'inverted_array': ['19', '20'], 'word': 'многоборье'}
+{'count': 2, 'inverted_array': ['19', '26'], 'word': 'серебряный'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'китай'}
+{'count': 3, 'inverted_array': ['19', '7', '25'], 'word': 'дистанция'}
+{'count': 4, 'inverted_array': ['19', '7', '26', '9'], 'word': 'кубок'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'спринтерский'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'цзилинь'}
+{'count': 4, 'inverted_array': ['19', '7', '9', '17'], 'word': 'выступление'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'квалифицироваться'}
+{'count': 9, 'inverted_array': ['19', '7', '14', '26', '1', '17', '20', '10', '15'], 'word': 'рождение'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'нагано'}
+{'count': 2, 'inverted_array': ['19', '7'], 'word': 'забег'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'юниорский'}
+{'count': 2, 'inverted_array': ['19', '10'], 'word': 'смочь'}
+{'count': 3, 'inverted_array': ['19', '7', '10'], 'word': 'рекорд'}
+{'count': 9, 'inverted_array': ['19', '7', '14', '2', '26', '17', '20', '10', '15'], 'word': 'карьера'}
+{'count': 6, 'inverted_array': ['19', '7', '2', '17', '20', '10'], 'word': 'личный'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'секунда'}
+{'count': 4, 'inverted_array': ['19', '7', '26', '10'], 'word': 'статистика'}
+{'count': 7, 'inverted_array': ['19', '7', '2', '9', '17', '10', '15'], 'word': 'быть'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'цицикар'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'участница'}
+{'count': 3, 'inverted_array': ['19', '2', '10'], 'word': 'китайский'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'дань'}
+{'count': 4, 'inverted_array': ['19', '7', '28', '4'], 'word': 'метр'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'спортсменка'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'конёк'}
+{'count': 5, 'inverted_array': ['19', '7', '14', '20', '10'], 'word': 'профиль'}
+{'count': 5, 'inverted_array': ['19', '7', '1', '17', '20'], 'word': 'мир'}
+{'count': 5, 'inverted_array': ['19', '7', '14', '26', '10'], 'word': 'гражданство'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'показать'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'подняться'}
+{'count': 1, 'inverted_array': ['19'], 'word': 'дисквалификация'}
+{'count': 2, 'inverted_array': ['7', '25'], 'word': 'гонка'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'финишировать'}
+{'count': 2, 'inverted_array': ['7', '25'], 'word': 'состоять'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'нидерланды'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'нюнорск'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'ребекка'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'хенриксен'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'норвегия'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'фр'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'русый'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'оставить'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'инцелля'}
+{'count': 2, 'inverted_array': ['7', '6'], 'word': 'спортсмен'}
+{'count': 3, 'inverted_array': ['7', '2', '20'], 'word': 'высокий'}
+{'count': 3, 'inverted_array': ['7', '23', '4'], 'word': 'возраст'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'норвежский'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'семикратный'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'завершиться'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'синдр'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'норвежец'}
+{'count': 5, 'inverted_array': ['7', '9', '17', '20', '10'], 'word': 'тренер'}
+{'count': 2, 'inverted_array': ['7', '1'], 'word': 'отец'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'знакомый'}
+{'count': 2, 'inverted_array': ['7', '17'], 'word': 'отвечать'}
+{'count': 2, 'inverted_array': ['7', '9'], 'word': 'стадион'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'корея'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'профессионально'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'каннын'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'тренироваться'}
+{'count': 2, 'inverted_array': ['7', '10'], 'word': 'заявить'}
+{'count': 2, 'inverted_array': ['7', '20'], 'word': 'серебро'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'овал'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'уотерспун'}
+{'count': 2, 'inverted_array': ['7', '2'], 'word': 'подготовка'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'уступить'}
+{'count': 3, 'inverted_array': ['7', '23', '28'], 'word': 'южный'}
+{'count': 4, 'inverted_array': ['7', '14', '20', '15'], 'word': 'заниматься'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'зеландия'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'южнокорейский'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'соперник'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'ставангер'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'новость'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'золотой'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'берген'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'джереми'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'преследование'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'воспитание'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'пхёнчхан'}
+{'count': 2, 'inverted_array': ['7', '23'], 'word': 'бронзовый'}
+{'count': 3, 'inverted_array': ['7', '20', '10'], 'word': 'сборная'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'скавхеллен'}
+{'count': 3, 'inverted_array': ['7', '14', '10'], 'word': 'начать'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'коммуна'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'канадский'}
+{'count': 5, 'inverted_array': ['7', '14', '2', '10', '15'], 'word': 'университет'}
+{'count': 3, 'inverted_array': ['7', '11', '20'], 'word': 'физический'}
+{'count': 3, 'inverted_array': ['7', '26', '9'], 'word': 'клуб'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'норв'}
+{'count': 2, 'inverted_array': ['7', '20'], 'word': 'спортивный'}
+{'count': 2, 'inverted_array': ['7', '15'], 'word': 'недоступный'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'восьмилетний'}
+{'count': 3, 'inverted_array': ['7', '23', '4'], 'word': 'мужчина'}
+{'count': 3, 'inverted_array': ['7', '26', '25'], 'word': 'призёр'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'специальность'}
+{'count': 1, 'inverted_array': ['7'], 'word': 'тренировка'}
+{'count': 2, 'inverted_array': ['7', '10'], 'word': 'обучаться'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'находка'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'манчестер'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'женатый'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'указывать'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'северо'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'строение'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'устье'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'франция'}
+{'count': 2, 'inverted_array': ['23', '15'], 'word': 'слово'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'демография'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'существование'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'возвышенный'}
+{'count': 2, 'inverted_array': ['23', '2'], 'word': 'ф'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'деревянный'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'музей'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'архитектор'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'елизавета'}
+{'count': 2, 'inverted_array': ['23', '12'], 'word': 'приём'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'пристанище'}
+{'count': 2, 'inverted_array': ['23', '10'], 'word': 'крупный'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'микролит'}
+{'count': 2, 'inverted_array': ['23', '28'], 'word': 'температура'}
+{'count': 3, 'inverted_array': ['23', '28', '4'], 'word': 'перепись'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'ратуша'}
+{'count': 2, 'inverted_array': ['23', '20'], 'word': 'лондон'}
+{'count': 2, 'inverted_array': ['23', '10'], 'word': 'парк'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'стокпорт'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'мезолит'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'разрыв'}
+{'count': 4, 'inverted_array': ['23', '11', '28', '4'], 'word': 'высота'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'депопуляция'}
+{'count': 2, 'inverted_array': ['23', '2'], 'word': 'з'}
+{'count': 3, 'inverted_array': ['23', '18', '15'], 'word': 'мировой'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'стоить'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'туннель'}
+{'count': 2, 'inverted_array': ['23', '15'], 'word': 'зал'}
+{'count': 4, 'inverted_array': ['23', '28', '4', '3'], 'word': 'центр'}
+{'count': 5, 'inverted_array': ['23', '1', '28', '4', '3'], 'word': 'население'}
+{'count': 2, 'inverted_array': ['23', '2'], 'word': 'найти'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'достопримечательность'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'судить'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'военный'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'переводиться'}
+{'count': 2, 'inverted_array': ['23', '20'], 'word': 'большой'}
+{'count': 4, 'inverted_array': ['23', '14', '2', '15'], 'word': 'н'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'подземный'}
+{'count': 2, 'inverted_array': ['23', '11'], 'word': 'лес'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'безье'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'покрывать'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'климатограмма'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'ти'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'местность'}
+{'count': 2, 'inverted_array': ['23', '3'], 'word': 'регион'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'призрак'}
+{'count': 5, 'inverted_array': ['23', '14', '28', '4', '3'], 'word': 'код'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'динамика'}
+{'count': 2, 'inverted_array': ['23', '17'], 'word': 'изменение'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'семейный'}
+{'count': 3, 'inverted_array': ['23', '28', '4'], 'word': 'река'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'идти'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'графство'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'возможно'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'хайльбронна'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'он'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'шляпа'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'проверить'}
+{'count': 4, 'inverted_array': ['23', '28', '4', '3'], 'word': 'идентификатор'}
+{'count': 4, 'inverted_array': ['23', '28', '4', '3'], 'word': 'пояс'}
+{'count': 3, 'inverted_array': ['23', '18', '6'], 'word': 'война'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'домохозяйство'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'среди'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'сведение'}
+{'count': 4, 'inverted_array': ['23', '28', '4', '3'], 'word': 'часовой'}
+{'count': 2, 'inverted_array': ['23', '4'], 'word': 'старший'}
+{'count': 2, 'inverted_array': ['23', '15'], 'word': 'альфред'}
+{'count': 4, 'inverted_array': ['23', '28', '4', '3'], 'word': 'география'}
+{'count': 2, 'inverted_array': ['23', '28'], 'word': 'климат'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'одинокий'}
+{'count': 2, 'inverted_array': ['23', '10'], 'word': 'дом'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'томас'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'неолит'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'римский'}
+{'count': 2, 'inverted_array': ['23', '28'], 'word': 'поселение'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'сумма'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'легенда'}
+{'count': 2, 'inverted_array': ['23', '28'], 'word': 'осадки'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'приходиться'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'тейм'}
+{'count': 2, 'inverted_array': ['23', '2'], 'word': 'э'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'ведущий'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'составить'}
+{'count': 2, 'inverted_array': ['23', '11'], 'word': 'плотность'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'орудие'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'происходить'}
+{'count': 2, 'inverted_array': ['23', '26'], 'word': 'единственный'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'свидетельствовать'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'гойт'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'побратим'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'тысяча'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'англия'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'саксонский'}
+{'count': 2, 'inverted_array': ['23', '28'], 'word': 'чел'}
+{'count': 3, 'inverted_array': ['23', '4', '3'], 'word': 'телефонный'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'брамуэлла'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'германия'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'замок'}
+{'count': 1, 'inverted_array': ['23'], 'word': 'лестница'}
+{'count': 3, 'inverted_array': ['23', '17', '4'], 'word': 'проживать'}
+{'count': 2, 'inverted_array': ['14', '15'], 'word': 'музыкальный'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'организатор'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'константи'}
+{'count': 3, 'inverted_array': ['14', '26', '28'], 'word': 'московский'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'маркетолог'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'переехать'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'увеличить'}
+{'count': 2, 'inverted_array': ['14', '17'], 'word': 'карточка'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'радио'}
+{'count': 2, 'inverted_array': ['14', '15'], 'word': 'лауреат'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'миллион'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'диджеинга'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'подписчик'}
+{'count': 2, 'inverted_array': ['14', '11'], 'word': 'занимать'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'шоу'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'люберцы'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'собственный'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'должность'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'константин'}
+{'count': 4, 'inverted_array': ['14', '9', '20', '15'], 'word': 'имя'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'директор'}
+{'count': 2, 'inverted_array': ['14', '28'], 'word': 'месяц'}
+{'count': 4, 'inverted_array': ['14', '2', '11', '12'], 'word': 'деятельность'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'стратегический'}
+{'count': 2, 'inverted_array': ['14', '20'], 'word': 'анастасия'}
+{'count': 2, 'inverted_array': ['14', '10'], 'word': 'момент'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'аудитория'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'запустить'}
+{'count': 4, 'inverted_array': ['14', '17', '20', '15'], 'word': 'интервью'}
+{'count': 6, 'inverted_array': ['14', '2', '26', '28', '20', '15'], 'word': 'российский'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'сидоркова'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'дуров'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'сидорк'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'бывш'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'партнёр'}
+{'count': 2, 'inverted_array': ['14', '15'], 'word': 'окончить'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'медиаменеджер'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'спецпроект'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'разговор'}
+{'count': 2, 'inverted_array': ['14', '2'], 'word': 'коммуникация'}
+{'count': 4, 'inverted_array': ['14', '28', '9', '15'], 'word': 'область'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'основатель'}
+{'count': 2, 'inverted_array': ['14', '2'], 'word': 'бизнес'}
+{'count': 2, 'inverted_array': ['14', '12'], 'word': 'значимость'}
+{'count': 3, 'inverted_array': ['14', '9', '20'], 'word': 'полный'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'милан'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'гайк'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'признание'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'встреча'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'сидоркий'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'возглавить'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'ульяновск'}
+{'count': 3, 'inverted_array': ['14', '2', '12'], 'word': 'проект'}
+{'count': 3, 'inverted_array': ['14', '2', '15'], 'word': 'специальный'}
+{'count': 2, 'inverted_array': ['14', '15'], 'word': 'профессия'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'говорить'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'росконгресс'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'фанат'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'семья'}
+{'count': 2, 'inverted_array': ['14', '15'], 'word': 'фестиваль'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'волна'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'сидорков'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'рьевич'}
+{'count': 2, 'inverted_array': ['14', '17'], 'word': 'карпов'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'ранее'}
+{'count': 2, 'inverted_array': ['14', '20'], 'word': 'летний'}
+{'count': 4, 'inverted_array': ['14', '11', '10', '15'], 'word': 'вместе'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'менеджер'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'факт'}
+{'count': 3, 'inverted_array': ['14', '2', '20'], 'word': 'развитие'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'ежегодный'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'диджей'}
+{'count': 2, 'inverted_array': ['14', '2'], 'word': 'менеджмент'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'помимо'}
+{'count': 2, 'inverted_array': ['14', '2'], 'word': 'сеть'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'вконтакте'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'спикер'}
+{'count': 5, 'inverted_array': ['14', '11', '10', '18', '6'], 'word': 'один'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'юриевич'}
+{'count': 3, 'inverted_array': ['14', '2', '28'], 'word': 'федеральный'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'головной'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'даллакян'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'радиостанция'}
+{'count': 4, 'inverted_array': ['14', '26', '28', '17'], 'word': 'москва'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'стояновск'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'поступить'}
+{'count': 2, 'inverted_array': ['14', '12'], 'word': 'категория'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'проработать'}
+{'count': 5, 'inverted_array': ['14', '2', '28', '20', '15'], 'word': 'государственный'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'издание'}
+{'count': 2, 'inverted_array': ['14', '28'], 'word': 'ю'}
+{'count': 5, 'inverted_array': ['14', '11', '26', '28', '20'], 'word': 'россия'}
+{'count': 1, 'inverted_array': ['14'], 'word': 'социальный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'пределение'}
+{'count': 3, 'inverted_array': ['2', '11', '10'], 'word': 'направление'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'переговоры'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'тарантино'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ы'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'искусство'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'очный'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'исследовательский'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'построение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'зрение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'инженерный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'парламентаризм'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'страноведение'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'наука'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'фцт'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'выборный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'модуль'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'практика'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'поэтический'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ипкн'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'принятие'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'функциональный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'письмо'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'эффективность'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'магистр'}
+{'count': 2, 'inverted_array': ['2', '17'], 'word': 'актуальный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'деловой'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'обезвредить'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'технология'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'фпи'}
+{'count': 4, 'inverted_array': ['2', '1', '28', '15'], 'word': 'русский'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'учебный'}
+{'count': 2, 'inverted_array': ['2', '28'], 'word': 'министерство'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'автоматизация'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ак'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'алгоритм'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'физика'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'метафора'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'клеточный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'квантовый'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'анализ'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'апр'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'удалённый'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'инвестирование'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'интеллект'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'тинт'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'собеседование'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'вычисление'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'биохимия'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'вычислительный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'образовательный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'подготовый'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'медиатеория'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'инфокоммуникационный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'лаб'}
+{'count': 2, 'inverted_array': ['2', '25'], 'word': 'пул'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'высоконагруженный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'итмый'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'фронтенд'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'испанский'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'проектирование'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'креативность'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'учреждение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'проф'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'контент'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'запуск'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'фитип'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'сложный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'проектный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'общеуниверситетский'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'машинный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'фэт'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'оаобд'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ресурсный'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'этика'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'веб'}
+{'count': 3, 'inverted_array': ['2', '28', '20'], 'word': 'федерация'}
+{'count': 3, 'inverted_array': ['2', '12', '4'], 'word': 'методология'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'курс'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'капитал'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'семестр'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'сфера'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'эмоциональный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'час'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'фикт'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'устойчивый'}
+{'count': 3, 'inverted_array': ['2', '11', '10'], 'word': 'срок'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'преддипломный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'блокчейн'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'экономика'}
+{'count': 2, 'inverted_array': ['2', '10'], 'word': 'профессиональный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'чаплин'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'витша'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'кол'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'сексология'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'регуляция'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'дизайн'}
+{'count': 2, 'inverted_array': ['2', '6'], 'word': 'конфликт'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'самопрезентация'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'автостоп'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'трудоголизм'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'мф'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'бд'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'кт'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'вкр'}
+{'count': 2, 'inverted_array': ['2', '11'], 'word': 'механизм'}
+{'count': 2, 'inverted_array': ['2', '28'], 'word': 'план'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'программирование'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ненасильственный'}
+{'count': 2, 'inverted_array': ['2', '11'], 'word': 'влияние'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'производственный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'щ'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'оп'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'академический'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'навык'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'популярный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'котлин'}
+{'count': 4, 'inverted_array': ['2', '11', '1', '17'], 'word': 'л'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'лаборатория'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'дисциплина'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'когнитивный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'поиск'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'микроконтроллер'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ресурсосбережение'}
+{'count': 3, 'inverted_array': ['2', '20', '15'], 'word': 'культура'}
+{'count': 2, 'inverted_array': ['2', '1'], 'word': 'п'}
+{'count': 2, 'inverted_array': ['2', '15'], 'word': 'инструмент'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'научно'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'диспозитив'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'инновационный'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'научный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'киноисследование'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'моделирование'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'информативный'}
+{'count': 2, 'inverted_array': ['2', '25'], 'word': 'итоговый'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'наименование'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'антиутопия'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'пр'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'основа'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'практический'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'прокрастинация'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'компилятор'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'мр'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'получение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'перевод'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'воображение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'обязательный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'программный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'иностранный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'операционный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'параллельный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'выгорание'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ц'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'биология'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ректор'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'объём'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'факультатив'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'кибернетика'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ед'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'циия'}
+{'count': 5, 'inverted_array': ['2', '11', '12', '28', '4'], 'word': 'структура'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'технологический'}
+{'count': 2, 'inverted_array': ['2', '28'], 'word': 'языковой'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'исследователь'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'графический'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'выбор'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'распределение'}
+{'count': 2, 'inverted_array': ['2', '28'], 'word': 'р'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'реализация'}
+{'count': 2, 'inverted_array': ['2', '10'], 'word': 'подбор'}
+{'count': 2, 'inverted_array': ['2', '22'], 'word': 'ь'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'микс'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'микроэкономика'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'васильев'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'высокопроизводительный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'семесто'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'аттестация'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'теория'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'персонал'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'цсио'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'инженерия'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'опс'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'музыковедение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'креативный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'фантастика'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'гиа'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'распределённый'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'автономный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'протокол'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'введение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'оф'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'наём'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'метод'}
+{'count': 2, 'inverted_array': ['2', '15'], 'word': 'общение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'текстовый'}
+{'count': 3, 'inverted_array': ['2', '28', '3'], 'word': 'б'}
+{'count': 2, 'inverted_array': ['2', '10'], 'word': 'блок'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'физф'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'раздел'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'грамматика'}
+{'count': 4, 'inverted_array': ['2', '12', '28', '4'], 'word': 'уровень'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'составление'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'танцевальный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'компьютер'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'энергетика'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'магистратура'}
+{'count': 2, 'inverted_array': ['2', '28'], 'word': 'информационный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'человеческий'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'обучение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'лек'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'мышление'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ноцм'}
+{'count': 2, 'inverted_array': ['2', '9'], 'word': 'финансовый'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'мобильный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'фтмить'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'криптографический'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'углублённый'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'хбк'}
+{'count': 2, 'inverted_array': ['2', '20'], 'word': 'конференция'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'продвинуть'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'лапа'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'ошибка'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'грамотность'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'весенний'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'макроэкономика'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'утверждать'}
+{'count': 4, 'inverted_array': ['2', '9', '6', '15'], 'word': 'основный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'жизнь'}
+{'count': 2, 'inverted_array': ['2', '12'], 'word': 'техника'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'осенний'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'применение'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'институт'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'скриптовый'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'глава'}
+{'count': 2, 'inverted_array': ['2', '11'], 'word': 'образование'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'факультативный'}
+{'count': 1, 'inverted_array': ['2'], 'word': 'импровизация'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'древесина'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'давление'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'тополь'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'простираться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'вдоль'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'доп'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'порок'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'образоваться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'дерево'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'окружающий'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'вызываться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'однотонный'}
+{'count': 2, 'inverted_array': ['11', '12'], 'word': 'термин'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'здоровый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'пятно'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'тёмный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сухой'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'нагрузка'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'кряж'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'пихтовый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'достигать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'светлый'}
+{'count': 2, 'inverted_array': ['11', '12'], 'word': 'признак'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'водопоглощение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'торец'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'годичный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'проницаемость'}
+{'count': 2, 'inverted_array': ['11', '1'], 'word': 'изд'}
+{'count': 2, 'inverted_array': ['11', '12'], 'word': 'отличие'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'встречаться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'статический'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'прочность'}
+{'count': 2, 'inverted_array': ['11', '18'], 'word': 'называть'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сжатие'}
+{'count': 2, 'inverted_array': ['11', '12'], 'word': 'особенность'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'водянка'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'чрезмерный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'свойство'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'влажный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'водосло'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'водослойный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'приобретать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'отсутствовать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'корень'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'водопроницаемость'}
+{'count': 2, 'inverted_array': ['11', '17'], 'word': 'экз'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'пятнистость'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'изгиб'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'открытый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'гриб'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'характерный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'буроватый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'бывать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сочетание'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'ядро'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'гигроскопичный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'внутрь'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'высыхание'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'продольный'}
+{'count': 2, 'inverted_array': ['11', '28'], 'word': 'сравнительно'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'растрескиваться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'плохой'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'отлуп'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'резко'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'располагаться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'щелочной'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'радиальный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'окрасить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'избыточно'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'внешний'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'водослой'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'волокнистый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'лесоматериал'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'распространить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'специфический'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'мало'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'чехол'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'брожение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'промежуточный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'бревно'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сканировать'}
+{'count': 2, 'inverted_array': ['11', '10'], 'word': 'сильный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сопровождаться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'рн'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'плохо'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'удлинение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'серый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'твёрдость'}
+{'count': 2, 'inverted_array': ['11', '18'], 'word': 'такой'}
+{'count': 2, 'inverted_array': ['11', '10'], 'word': 'снизить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'отличаться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'бактериальный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'подтвердить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'бурый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'усыхать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'обычно'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'морозобоина'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'переработка'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'есть'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'вакин'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'вязкость'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'проникновение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'крение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'доказать'}
+{'count': 2, 'inverted_array': ['11', '28'], 'word': 'зимой'}
+{'count': 2, 'inverted_array': ['11', '17'], 'word': 'ссср'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'каталогиздат'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'предположение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'повышенный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'порода'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'серовато'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сохранять'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'возникновение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'запах'}
+{'count': 2, 'inverted_array': ['11', '12'], 'word': 'способ'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'язва'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'неравномерность'}
+{'count': 2, 'inverted_array': ['11', '10'], 'word': 'показатель'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сырой'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'гниль'}
+{'count': 2, 'inverted_array': ['11', '10'], 'word': 'объяснять'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'раствор'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'газовый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'тон'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'разрез'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'черта'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'изучить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'трещина'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'резкий'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'распространяться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'поэтому'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'микрофлора'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'цвет'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'мелкий'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'слоить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'заболотить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'метан'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'лесосплав'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'исключение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'дождев'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сть'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сравнение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'пихта'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'близкий'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'споруляция'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'природа'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'хвойный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'подтверждаться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сильно'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'ильмовый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'заболонь'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'вызывать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'бактерия'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'определение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'часто'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сучка'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'спелый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'всасывание'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'утоп'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'расти'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'физиологический'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'выдержать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'массив'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'химический'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'нктп'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'стекловидный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'лиственный'}
+{'count': 2, 'inverted_array': ['11', '6'], 'word': 'служить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'водородный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'волокно'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'трескаться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'комель'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'механический'}
+{'count': 2, 'inverted_array': ['11', '3'], 'word': 'вода'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'загнивание'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'определяться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'заметный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сосна'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'причина'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'связать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'изменяться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'пром'}
+{'count': 2, 'inverted_array': ['11', '6'], 'word': 'граница'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'повысить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'ударный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'мокрый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'её'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'ствол'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'вокруг'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'уменьшить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'сопредельный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'ложный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'полоса'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'почва'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'измерение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'подобно'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'полубояринов'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'очаг'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'пропитать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'впитывание'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'осина'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'раковый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'пропитка'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'водослоить'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'отрицательный'}
+{'count': 3, 'inverted_array': ['11', '25', '12'], 'word': 'классификация'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'соловей'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'экспериментально'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'гост'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'чёткий'}
+{'count': 2, 'inverted_array': ['11', '10'], 'word': 'среднее'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'раскол'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'нормальный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'различаться'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'разновидность'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'вызвать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'миллер'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'мёрзлый'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'затруднять'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'разжижение'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'данный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'равноценный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'увлажнить'}
+{'count': 2, 'inverted_array': ['11', '10'], 'word': 'качество'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'отлупный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'древесный'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'правило'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'неравномерно'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'перераб'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'разбухать'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'усушка'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'гипотеза'}
+{'count': 3, 'inverted_array': ['11', '9', '10'], 'word': 'второе'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'микроскоп'}
+{'count': 1, 'inverted_array': ['11'], 'word': 'лесна'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'дбс'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'босна'}
+{'count': 2, 'inverted_array': ['26', '17'], 'word': 'социалистический'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'босния'}
+{'count': 2, 'inverted_array': ['26', '15'], 'word': 'выступать'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'хорватия'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'пополнить'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'полсезон'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'баскетболистка'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'герцеговина'}
+{'count': 2, 'inverted_array': ['26', '20'], 'word': 'женский'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'форвард'}
+{'count': 2, 'inverted_array': ['26', '9'], 'word': 'финалист'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'бк'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'дойти'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'телек'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'джолли'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'республика'}
+{'count': 3, 'inverted_array': ['26', '17', '20'], 'word': 'европа'}
+{'count': 2, 'inverted_array': ['26', '17'], 'word': 'первенство'}
+{'count': 2, 'inverted_array': ['26', '10'], 'word': 'внимание'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'амплуа'}
+{'count': 3, 'inverted_array': ['26', '20', '10'], 'word': 'рост'}
+{'count': 2, 'inverted_array': ['26', '10'], 'word': 'сыграть'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'шибеникнуть'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'аел'}
+{'count': 2, 'inverted_array': ['26', '25'], 'word': 'адриатический'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'азр'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'тузел'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'кипр'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'приехать'}
+{'count': 2, 'inverted_array': ['26', '10'], 'word': 'травма'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'югославия'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'банович'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'загреб'}
+{'count': 3, 'inverted_array': ['26', '9', '17'], 'word': 'чемпион'}
+{'count': 3, 'inverted_array': ['26', '9', '10'], 'word': 'лига'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'лимасол'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'фиб'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'финал'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'кроатия'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'бечирович'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'жбк'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'череда'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'единство'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'боснийский'}
+{'count': 1, 'inverted_array': ['26'], 'word': 'обратить'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'дель'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'велогонка'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'форио'}
+{'count': 2, 'inverted_array': ['25', '28'], 'word': 'генеральный'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'тирренский'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'йеспереть'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'камерано'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'марк'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'зутемёлк'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'чинетти'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'бонтемпить'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'проводиться'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'роберто'}
+{'count': 3, 'inverted_array': ['25', '10', '15'], 'word': 'старт'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'мара'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'побережье'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'прим'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'эрих'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'муттереть'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'визентини'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'маршрут'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'анкона'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'йохан'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'перно'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'йоп'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'ди'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'поццуоля'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'адриатико'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'монтепрандон'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'италия'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'тронто'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'велогонщик'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'одержать'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'многодневный'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'деталь'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'бенедетто'}
+{'count': 3, 'inverted_array': ['25', '28', '4'], 'word': 'километр'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'альфредо'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'монтенеро'}
+{'count': 2, 'inverted_array': ['25', '1'], 'word': 'дер'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'лемонд'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'реканать'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'гвидо'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'ворра'}
+{'count': 2, 'inverted_array': ['25', '10'], 'word': 'ван'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'петито'}
+{'count': 2, 'inverted_array': ['25', '10'], 'word': 'сан'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'бизачча'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'включая'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'беччиа'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'мехлера'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'документация'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'марио'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'грег'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'шведский'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'пролог'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'мадьо'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'тиррено'}
+{'count': 3, 'inverted_array': ['25', '28', '4'], 'word': 'море'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'престиж'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'гонщик'}
+{'count': 3, 'inverted_array': ['25', '9', '17'], 'word': 'соревнование'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'финиш'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'фрозинон'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'джузеппе'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'вельд'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'лидер'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'адри'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'штефан'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'томми'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'супер'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'кассиный'}
+{'count': 1, 'inverted_array': ['25'], 'word': 'шоссейный'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'эссе'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'логический'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'процедура'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'предметный'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'структурно'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'дескриптивный'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'эмпирический'}
+{'count': 3, 'inverted_array': ['12', '1', '20'], 'word': 'основной'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'научность'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'типология'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'эвристика'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'теоретический'}
+{'count': 2, 'inverted_array': ['12', '28'], 'word': 'закон'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'оерация'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'проблема'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'фаза'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'стрктур'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'познание'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'рациональный'}
+{'count': 2, 'inverted_array': ['12', '1'], 'word': 'тема'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'общелогический'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'знание'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'общенаучный'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'критерий'}
+{'count': 3, 'inverted_array': ['12', '1', '17'], 'word': 'вопрос'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'позитивный'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'понятие'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'норма'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'предъявлять'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'структурный'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'подход'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'компонент'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'нормативный'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'философский'}
+{'count': 2, 'inverted_array': ['12', '10'], 'word': 'четыре'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'предмет'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'методологический'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'средство'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'рефлексивный'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'базовый'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'методика'}
+{'count': 1, 'inverted_array': ['12'], 'word': 'стадия'}
+{'count': 2, 'inverted_array': ['1', '28'], 'word': 'всероссийский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'казанский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'магистрианович'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'анна'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'александрович'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'пелагианство'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'кадетский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'диссертация'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'труд'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'патриарх'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'блаженный'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'шайтан'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'считать'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'священник'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'уна'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'канон'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'разрешить'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'гностик'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'магистерский'}
+{'count': 2, 'inverted_array': ['1', '4'], 'word': 'уезд'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'императорский'}
+{'count': 2, 'inverted_array': ['1', '20'], 'word': 'указ'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'вассианович'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'сменить'}
+{'count': 3, 'inverted_array': ['1', '28', '4'], 'word': 'деревня'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'учение'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'корпус'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'млевский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'вологодский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'звёздный'}
+{'count': 2, 'inverted_array': ['1', '4'], 'word': 'губерния'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'жданов'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'рюмка'}
+{'count': 2, 'inverted_array': ['1', '15'], 'word': 'академия'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'кре'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'духовный'}
+{'count': 2, 'inverted_array': ['1', '28'], 'word': 'очерк'}
+{'count': 2, 'inverted_array': ['1', '15'], 'word': 'александр'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'гермоген'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'катехизис'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'кремлёвский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'богослов'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'личность'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'фамилия'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'свящий'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'лита'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'портр'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'небожитель'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'пособие'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'шайтановый'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'магистриан'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'сын'}
+{'count': 2, 'inverted_array': ['1', '20'], 'word': 'казань'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'первородный'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'кузнецов'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'законоучитель'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'вечность'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'типо'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'ярославский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'петербург'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'пелагианский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'августин'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'ангел'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'изучать'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'казан'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'кремлёвый'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'мучение'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'маркион'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'кремлевый'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'петроград'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'кадниковский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'пётр'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'иппонский'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'мать'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'грех'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'млевый'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'вино'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'гроб'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'ярослый'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'лопухин'}
+{'count': 2, 'inverted_array': ['1', '15'], 'word': 'учиться'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'санкт'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'брат'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'зло'}
+{'count': 1, 'inverted_array': ['1'], 'word': 'доктрина'}
+{'count': 2, 'inverted_array': ['28', '4'], 'word': 'приблизительно'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'утверждение'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'тёплый'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'природный'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'холодный'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'этный'}
+{'count': 3, 'inverted_array': ['28', '4', '3'], 'word': 'населить'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'тайга'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'омаома'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'характеризоваться'}
+{'count': 2, 'inverted_array': ['28', '4'], 'word': 'абсолютный'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'воздух'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'холодное'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'смещение'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'относительно'}
+{'count': 2, 'inverted_array': ['28', '4'], 'word': 'административный'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'сам'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'континентальный'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'администрация'}
+{'count': 3, 'inverted_array': ['28', '4', '3'], 'word': 'сельский'}
+{'count': 3, 'inverted_array': ['28', '4', '3'], 'word': 'индекс'}
+{'count': 2, 'inverted_array': ['28', '18'], 'word': 'весь'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'планирование'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'муниципальный'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'статья'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'перечень'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'костромской'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'умеренно'}
+{'count': 2, 'inverted_array': ['28', '9'], 'word': 'юго'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'многоснежный'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'численность'}
+{'count': 4, 'inverted_array': ['28', '3', '18', '15'], 'word': 'район'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'территориальный'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'самсоновский'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'фгис'}
+{'count': 2, 'inverted_array': ['28', '20'], 'word': 'приказ'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'пьяньковый'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'ресурс'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'атмосферный'}
+{'count': 3, 'inverted_array': ['28', '4', '3'], 'word': 'почтовый'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'окато'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'лесорастительный'}
+{'count': 2, 'inverted_array': ['28', '4'], 'word': 'автодорога'}
+{'count': 2, 'inverted_array': ['28', '4'], 'word': 'запад'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'лесной'}
+{'count': 2, 'inverted_array': ['28', '3'], 'word': 'реестр'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'постановление'}
+{'count': 3, 'inverted_array': ['28', '4', '3'], 'word': 'пункт'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'фз'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'подзона'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'исчисление'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'кубань'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'продолжительный'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'коряк'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'тп'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'октмый'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'годовой'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'кострома'}
+{'count': 2, 'inverted_array': ['28', '4'], 'word': 'берег'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'короткий'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'выпадать'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'географический'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'мск'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'субъект'}
+{'count': 1, 'inverted_array': ['28'], 'word': 'максимум'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'форвертс'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'дяк'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'кса'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'бенфик'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'резервный'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'ираклис'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'болгарский'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'кризис'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'циркулировать'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'сливаться'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'европейский'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'ого'}
+{'count': 2, 'inverted_array': ['9', '17'], 'word': 'турнир'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'панерис'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'георгиев'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'пловдивский'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'футбольный'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'спартак'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'стабильный'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'тодора'}
+{'count': 2, 'inverted_array': ['9', '3'], 'word': 'всё'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'дий'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'болга'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'болгария'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'вица'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'вместимость'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'манола'}
+{'count': 2, 'inverted_array': ['9', '20'], 'word': 'президент'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'вильнюс'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'балканский'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'айнтрахт'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'значительно'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'фк'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'гарантировать'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'еврокубок'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'интертоть'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'гр'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'псв'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'благополучный'}
+{'count': 2, 'inverted_array': ['9', '4'], 'word': 'восток'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'група'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'штайра'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'сокол'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'пловдив'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'ярмарка'}
+{'count': 2, 'inverted_array': ['9', '17'], 'word': 'советский'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'расформировать'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'гостевой'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'христо'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'франкфурт'}
+{'count': 2, 'inverted_array': ['9', '6'], 'word': 'армия'}
+{'count': 1, 'inverted_array': ['9'], 'word': 'партизань'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'двукратный'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'шахматный'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'видеоканал'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'гастингс'}
+{'count': 2, 'inverted_array': ['17', '20'], 'word': 'мастер'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'амбиция'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'ред'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'словарь'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'шахматист'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'ласа'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'беседа'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'революция'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'книга'}
+{'count': 2, 'inverted_array': ['17', '15'], 'word': 'лев'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'борисович'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'октябрьский'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'бел'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'партия'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'эло'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'бердичевский'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'пальмас'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'труун'}
+{'count': 2, 'inverted_array': ['17', '15'], 'word': 'летие'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'баня'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'всесоюзный'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'псахиса'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'деть'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'сирак'}
+{'count': 2, 'inverted_array': ['17', '10'], 'word': 'атаковать'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'минск'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'црква'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'еврейский'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'сараево'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'ретро'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'обозрение'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'израильский'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'рсфср'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'сьенфуэгос'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'максимальный'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'фиде'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'калинин'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'фотограф'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'энциклопедический'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'псахисом'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'изобретательный'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'темпотурнир'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'суханицкий'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'молодёжный'}
+{'count': 2, 'inverted_array': ['17', '20'], 'word': 'заслужить'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'гроссмейстер'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'ереван'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'зональный'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'лука'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'юрмала'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'схватка'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'псахис'}
+{'count': 3, 'inverted_array': ['17', '20', '10'], 'word': 'звание'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'полгарин'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'титковы'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'шахматы'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'видео'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'никуда'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'наленчуть'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'гл'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'таллин'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'станислав'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'межзональный'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'дортмунд'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'геннадий'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'атар'}
+{'count': 1, 'inverted_array': ['17'], 'word': 'фшр'}
+{'count': 2, 'inverted_array': ['17', '10'], 'word': 'стиль'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'гимнастика'}
+{'count': 2, 'inverted_array': ['20', '10'], 'word': 'появиться'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'орден'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'четверг'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'групповой'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'токио'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'ксения'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'алина'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'распоряжение'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'сингапур'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'ирина'}
+{'count': 2, 'inverted_array': ['20', '10'], 'word': 'вес'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'севастьянов'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'лента'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'омск'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'упражнение'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'награждение'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'евгения'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'дудкин'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'присвоение'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'пол'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'елена'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'павлович'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'универсиада'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'мяч'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'нг'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'сергаев'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'макаренко'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'член'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'конкурентка'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'донсков'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'ульяна'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'юношеский'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'рп'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'пресс'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'новгород'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'инна'}
+{'count': 2, 'inverted_array': ['20', '10'], 'word': 'каролина'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'хотеться'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'поощрение'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'татьяна'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'нижний'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'художественный'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'быстров'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'монпелье'}
+{'count': 2, 'inverted_array': ['20', '10'], 'word': 'награда'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'почётный'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'радость'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'булава'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'канаев'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'змс'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'грамота'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'дружба'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'всемирный'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'вклад'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'чемпионка'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'минспорттуризм'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'винер'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'николаевич'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'арайса'}
+{'count': 2, 'inverted_array': ['20', '10'], 'word': 'кг'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'назаренко'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'плакать'}
+{'count': 2, 'inverted_array': ['20', '15'], 'word': 'киев'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'пройти'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'близнюк'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'завоевать'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'ведомственный'}
+{'count': 1, 'inverted_array': ['20'], 'word': 'гимнастка'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'бяльскома'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'вялый'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'гмина'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'повет'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'княжество'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'бяльскоподляский'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'люблинский'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'проходить'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'воеводство'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'подляска'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'повёнок'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'литовский'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'роскош'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'тарычный'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'беларус'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'справочный'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'повять'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'атлас'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'книжка'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'седлецкий'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'берестейский'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'польск'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'левый'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'бяльский'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'польша'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'подляскай'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'бял'}
+{'count': 2, 'inverted_array': ['4', '3'], 'word': 'автомобильный'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'трудоспособный'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'региональный'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'демографический'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'клюкувка'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'бельский'}
+{'count': 2, 'inverted_array': ['4', '10'], 'word': 'конец'}
+{'count': 1, 'inverted_array': ['4'], 'word': 'витулина'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'животноводство'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'гарма'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'хозяйство'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'раштский'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'малика'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'таджикский'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'община'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'душа'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'село'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'шулмак'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'рахимзод'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'глредтнэ'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'растениводство'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'санга'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'национальность'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'катойконить'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'орошаться'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'джамоат'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'горный'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'таджикистан'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'доман'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'кухдоман'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'гармец'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'дехота'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'таджик'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'джамоата'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'суннит'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'тадж'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'раштскома'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'пгт'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'раштец'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'образ'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'дех'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'основное'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'рашт'}
+{'count': 1, 'inverted_array': ['3'], 'word': 'ррп'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'каттин'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'снизиться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'вернуться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'впервые'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'пятёрка'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'смит'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'подходить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'мэриленд'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'разыгрывать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'майами'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'передача'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'нога'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'гарден'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'наггетс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'трейся'}
+{'count': 2, 'inverted_array': ['10', '15'], 'word': 'несмотря'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'удовлетворить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'джаз'}
+{'count': 2, 'inverted_array': ['10', '15'], 'word': 'пятница'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'элтон'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'баскетбольный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'монтгомери'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'слух'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'позволить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'обратно'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'очко'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ченнинга'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'лейкерс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'родный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'террапинс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'набрать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'колледж'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'попасть'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'отказаться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'проиграть'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'водяной'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'тренировочный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'кельвин'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'данк'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'подписать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'двухлетний'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'экс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'набирать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'курсор'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'защитник'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'драфт'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'томьянович'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'сожаление'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'никакой'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'тендинит'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'преемник'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'практически'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'неограниченно'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'джента'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'бэйцзина'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'аббревиатура'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'перевести'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'однако'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'третьекурсник'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'божий'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'маверикс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'звезда'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'эрл'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ганди'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'стартовый'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'установить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'нападение'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'денвер'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'агент'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'быстрый'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'очки'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'мег'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'очевидный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'джуван'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'налог'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'остаться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'бросок'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ховард'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'генменеджер'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'заинтересовать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'предложить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'блэр'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'дешон'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'закончить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'тренерский'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'сообщить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'спринг'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'возвращение'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'обменять'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'вашингтон'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'фред'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'лагерь'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'пенни'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'участвие'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'фрая'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'таки'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'фунт'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'соединить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ариз'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'навести'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'таком'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'студенческий'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'разделить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'пропустить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'мемфис'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'впоследствии'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'очковый'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'рик'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'публично'}
+{'count': 2, 'inverted_array': ['10', '18'], 'word': 'конечный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'интерес'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'хьюстон'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'минута'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'стив'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'клипперс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'черепаха'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'потерять'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'выбрать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'заголовок'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'таблица'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'уотсон'}
+{'count': 2, 'inverted_array': ['10', '15'], 'word': 'деньга'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'штат'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'номер'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'регулярный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'фрэнсис'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'матч'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'отобрать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'баскетболист'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'тайрон'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ассоциация'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'анферня'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'контест'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'расстроить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'улучшиться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'расставаться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'обмен'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'джонс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'середина'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ход'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'шота'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'главное'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'сквер'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'сразу'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'центровой'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'рис'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'среда'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'прочесть'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'нба'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'новичок'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ухудшиться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'рокетс'}
+{'count': 2, 'inverted_array': ['10', '15'], 'word': 'школа'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'аллеганя'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'развеять'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'дико'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'перехват'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'уйти'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'данков'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'брэнд'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'воля'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'дэн'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'включить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'забросить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'пребывание'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'желание'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'отис'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'макгрейти'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'сделка'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'мэдисон'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'нетс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'дакс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'всеамериканский'}
+{'count': 2, 'inverted_array': ['10', '15'], 'word': 'включать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'связка'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'рэндольф'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'лить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'победный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'хит'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'недовольный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'отставка'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'като'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'подряд'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'столкнуться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'хотеть'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ротация'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'пик'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'роскошь'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'адаптироваться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'джефф'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'проявить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'удаться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'крис'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'объявить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'расшифровка'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ванкувер'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'планировать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'нью'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'мэджик'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'моблить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'яо'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'выкупить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'гейнс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'плей'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'уизардс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'упасть'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'джерси'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'опция'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'никс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'миннесота'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'серия'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'покинуть'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'выбраться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'временной'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'джакинто'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'трэйл'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'колено'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'портленд'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'забить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'скоростной'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'двигаться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'френсиса'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'местный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'сосредоточить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'гриззлис'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'хардуэй'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'потеря'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'против'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'истекать'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'дедлайн'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'прошлый'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'рудить'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'зак'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'блэйзерс'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'орландо'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'силвера'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'стремиться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'адельмана'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'лишь'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'даллас'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'восстановление'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'должное'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'йорк'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'отобраться'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'офф'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'ют'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'млн'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'условный'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'прозвище'}
+{'count': 1, 'inverted_array': ['10'], 'word': 'слэм'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'береговой'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'эджвера'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'кольцевой'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'фенчерч'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'рондель'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'инвалид'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'тауэр'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'метро'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'соседний'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'тарифный'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'олдгейт'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'лондонский'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'изогнутый'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'поезд'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'шерлок'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'разрушить'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'обслуживаться'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'предыдущий'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'гейтвеять'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'стрит'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'продление'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'относиться'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'переход'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'останавливаться'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'упоминание'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'хилла'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'сити'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'рассчитать'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'ливерпуль'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'метрополитен'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'колясочник'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'иллюстрация'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'хаммерсмит'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'холмс'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'островной'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'упоминаться'}
+{'count': 1, 'inverted_array': ['18'], 'word': 'роуд'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'джамьянг'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'джамму'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'туртук'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'каргильский'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'пехотный'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'собранный'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'кашмир'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'кнр'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'таша'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'неофициальный'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'полк'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'лундуп'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'виджей'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'вангчук'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'планироваться'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'полка'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'создание'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'скаут'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'кашмирский'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'ладакхский'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'высокогорье'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'пехота'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'майор'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'пакистан'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'воинский'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'снежный'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'слава'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'батальон'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'намгьял'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'охрана'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'индийский'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'индия'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'расширить'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'подразделение'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'тигр'}
+{'count': 2, 'inverted_array': ['6', '15'], 'word': 'известный'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'хинди'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'го'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'операция'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'вскоре'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'сон'}
+{'count': 1, 'inverted_array': ['6'], 'word': 'принять'}
+{'count': 1, 'inverted_array': ['22'], 'word': 'ьец'}
+{'count': 1, 'inverted_array': ['22'], 'word': 'цулаьцщуа'}
+{'count': 1, 'inverted_array': ['22'], 'word': 'щуа'}
+{'count': 1, 'inverted_array': ['22'], 'word': 'цлва'}
+{'count': 1, 'inverted_array': ['22'], 'word': 'фыйвлцть'}
+{'count': 1, 'inverted_array': ['22'], 'word': 'йцв'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'пианист'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'громкий'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'половина'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'независимый'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'валентина'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'спешить'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'шёнберг'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'колонный'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'выказывать'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'скрябин'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'мемориальный'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'хмельницкий'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'педагог'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'одесса'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'артемьев'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'посёлок'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'концерт'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'живой'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'фест'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'горовица'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'рутина'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'пошлость'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'выбрасывать'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'лысенко'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'кнайфель'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'контраст'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'альбан'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'зеркало'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'консерватория'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'дебюсся'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'регин'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'валентин'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'премия'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'интернат'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'андеграунд'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'форум'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'мой'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'премьера'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'небо'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'громов'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'ревуцкий'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'киевский'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'дмитрий'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'ды'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'бодырёв'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'шнитке'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'фортепиано'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'куртаг'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'дьёрдь'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'клод'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'каретников'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'союзный'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'владимирович'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'евгений'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'деражнянский'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'юбилейный'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'иосиф'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'ночь'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'галина'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'перерыв'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'сложно'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'оливье'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'булёз'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'десятерик'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'ящик'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'филармония'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'украинский'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'мессиана'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'память'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'проведение'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'государство'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'арнольд'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'ложа'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'николай'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'эдуард'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'канчель'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'солярис'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'волковинец'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'левко'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'сольный'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'бродский'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'украина'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'прокрустов'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'берг'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'обсуждать'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'бешеный'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'антон'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'карлхайнец'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'музик'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'схо'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'фортепианный'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'штокхаузен'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'уствольский'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'вече'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'гия'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'борис'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'непосредственно'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'влиться'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'владимир'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'предпочтение'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'сильвестровый'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'веберн'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'лятошинский'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'пьер'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'сильвестр'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'неделя'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'выступить'}
+{'count': 1, 'inverted_array': ['15'], 'word': 'пропагандист'}
