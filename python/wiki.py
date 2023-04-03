@@ -10,7 +10,7 @@ class PythonOrgSearch(unittest.TestCase):
 
     def test_search_in_python_org(self):
         driver = self.driver
-        for i in range(20):
+        for i in range(30):
             driver.get("https://ru.wikipedia.org/wiki/Заглавная_страница")
             el = driver.find_element(By.ID, 'n-randompage')
             link = el.find_element(By.TAG_NAME, 'a').get_attribute('href')
