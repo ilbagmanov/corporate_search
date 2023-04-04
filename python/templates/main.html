@@ -12,25 +12,39 @@
 </head>
 <body>
 <div id="main_div" class="container">
-    <form method="post" action="/add_message">
-        <div class="mb-3">
-            <h2 id="search">Корпоративный поиск по документам</h2>
+    <div class="mb-3">
+        <h2 id="search">Корпоративный поиск по документам</h2>
+        <form method="post" action="/add_message">
             <div class="row">
-                <div id="add" class="col-1">
-                    <a href="/all_message"><button type="button" class="btn btn-success search_btn">+</button></a>
-                </div>
-                <div class="col-9">
+
+                <div class="col-10">
                     <input type="text" name="text" id="text" class="form-control">
                 </div>
                 <div class="col-1">
-                    <a href="/all_message"><button type="button" class="btn btn-primary search_btn">Список</button></a>
+                    <a href="/all_message">
+                        <button type="button" class="btn btn-primary search_btn">Список</button>
+                    </a>
                 </div>
                 <div class="col-1">
                     <button type="submit" class="btn btn-primary search_btn">Поиск</button>
                 </div>
+
+            </div>
+        </form>
+    </div>
+
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <div class="row">
+            <div id="add" class="col-10">
+                <input id="cs_file" type='file' name='file' class="form-control" multiple=''>
+
+            </div>
+            <div id="s" class="col-2">
+                <button type="submit" class="btn btn-success search_btn">+</button>
             </div>
         </div>
     </form>
+
     <p id="docs">Результат поиска:</p>
     <hr>
     <ul class="list-group">
@@ -88,9 +102,6 @@
         margin-right: 5px;
     }
 
-    #add {
-
-    }
 
 </style>
 

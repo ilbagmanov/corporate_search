@@ -40,6 +40,14 @@ def download(filename):
     return send_from_directory(directory=uploads, path=filename, as_attachment=True)
 
 
+@app.route('/upload', methods=['POST'])
+def upload():
+    file = request.files['file']
+    file.save(f'{config.UNPROCESSED_DOCS_FOLDER}/{file.filename}')
+    messages.clear()
+    return redirect(url_for('main'))
+
+
 @app.route('/delete/<path:filename>', methods=['GET'])
 def delete(filename):
     return None
