@@ -120,11 +120,12 @@ def search(query):
     converted_query = get_notaion(tokenized_query)
     result = evaluate(converted_query)
     print(result)
+    return result
 
 
 def test():
     queries = {
-        "я & она | ~это"
+        "эти"
     }
     for query in queries:
         search(query)

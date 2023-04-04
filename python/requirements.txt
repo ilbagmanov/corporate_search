@@ -4,3 +4,4 @@ textract~=1.6.5
 nltk~=3.8.1
 pymorphy2~=0.9.1
 selenium~=4.8.3
+Flask~=2.2.3
