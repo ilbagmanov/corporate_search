@@ -31,19 +31,22 @@ def main():
     return render_template('main.html', document_files=document_files)
 
 
-@app.route('/add_message', methods=['POST'])
-def add_message():
+@app.route('/search', methods=['POST'])
+def search():
     text = request.form['text']
+    search_mode = request.form.get('checkbox')
     document_files.clear()
-    files = search_vector_model.search(text)
-    for file in files:
-        document_files.append(Document_file(title=file[1], file_id=file[0]))
-    # result = search_inverted_index.search(text)
-    # if len(result) != 0:
-    #     sql_str = '(' + ', '.join(map(str, result)) + ')'
-    #     titles = db.execute_query(f"SELECT array_agg(title) as titles FROM documents WHERE id IN {sql_str}")
-    #     for title in titles[0][0]:
-    #         document_files.append(Document_file(text=title))
+    if search_mode != None and search_mode == 'on':
+        print('HARD_MODE')
+        files = search_vector_model.search(text)
+        for file in files:
+            document_files.append(Document_file(title=file[1], file_id=file[0]))
+    else:
+        print("EASY MDOE")
+        file_ids = search_inverted_index.search(text)
+        for file_id in file_ids:
+            file = db.execute_query(f"SELECT id, title FROM documents WHERE id = {file_id}")[0]
+            document_files.append(Document_file(title=file[1], file_id=file[0]))
     return redirect(url_for('main'))
 
 

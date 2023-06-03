@@ -14,9 +14,12 @@
 <div id="main_div" class="container">
     <div class="mb-3">
         <h2 id="search">Корпоративный поиск по документам</h2>
-        <form method="post" action="/add_message">
+        <form method="post" action="/search">
+            <div class="form-check form-switch">
+                <input class="form-check-input" type="checkbox" id="checkbox" name="checkbox" checked>
+                <label class="form-check-label" for="checkbox">Выключить продвинутый поиск</label>
+            </div>
             <div class="row">
-
                 <div class="col-10">
                     <input type="text" name="text" id="text" class="form-control">
                 </div>
@@ -28,7 +31,6 @@
                 <div class="col-1">
                     <button type="submit" class="btn btn-primary search_btn">Поиск</button>
                 </div>
-
             </div>
         </form>
     </div>

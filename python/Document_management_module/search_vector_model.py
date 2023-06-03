@@ -9,7 +9,9 @@ import search_inverted_index
 
 def calculate(term, document_tokens_list, documents_count, documents_with_term_count):
     TF = document_tokens_list.count(term) / len(document_tokens_list)
-    IDF = math.log(documents_count / documents_with_term_count)
+    IDF = math.log((documents_count) / documents_with_term_count)
+    if (documents_count == documents_with_term_count and documents_with_term_count != 0):
+        IDF = 1
     return round(TF, 6), round(IDF, 6), round(TF * IDF, 6)
 
 
@@ -58,6 +60,8 @@ def search(query):
                 ''')[0][0]
                 TF = token_count / doc_words_count
                 IDF = math.log(len(indices) / docs_count_with_token)
+                if (len(indices) == docs_count_with_token and docs_count_with_token != 0):
+                    IDF = 1
                 tf_idf = round(TF * IDF, 6)
                 document_vector.append(tf_idf)
             except Exception:
