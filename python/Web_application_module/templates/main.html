@@ -21,7 +21,7 @@
                     <input type="text" name="text" id="text" class="form-control">
                 </div>
                 <div class="col-1">
-                    <a href="/all_message">
+                    <a href="/all_files">
                         <button type="button" class="btn btn-primary search_btn">Список</button>
                     </a>
                 </div>
@@ -48,17 +48,17 @@
     <p id="docs">Результат поиска:</p>
     <hr>
     <ul class="list-group">
-        {% for message in messages %}
+        {% for file in document_files %}
         <li class="list-group-item">
             <div class="row">
                 <div class="col-9 book-name">
-                    {{ message.text }}
+                    {{ file.text }}
                 </div>
                 <div class="col-3">
-                    <a href="{{ url_for('download', filename=message.text) }}">
+                    <a href="{{ url_for('download', filename=file.text) }}">
                         <button type="button" class="btn btn-secondary download">скачать</button>
                     </a>
-                    <a href="{{ url_for('delete', filename=message.text) }}">
+                    <a href="{{ url_for('delete', filename=file.text) }}">
                         <button id="delete" type="button" class="btn btn-danger download">Удалить</button>
                     </a>
 

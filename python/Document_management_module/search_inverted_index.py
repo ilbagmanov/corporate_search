@@ -1,23 +1,32 @@
 import re
 import sys
+from collections import defaultdict
 
 from nltk import RegexpTokenizer
 from pymorphy2 import MorphAnalyzer
 
 import config
-from prepare_inverted_index import get_inverted_index
+from database import db
+
+
+def get_inverted_index():
+    term_documents_dict = defaultdict(list)
+    result = db.execute_query('''
+        SELECT word, array_agg(document_id) AS word_array FROM word_documents
+        LEFT JOIN words w on w.id = word_documents.word_id GROUP BY word
+        ''')
+    for lemma_data in result:
+        lemma = lemma_data[0]
+        ids = lemma_data[1]
+        term_documents_dict[lemma] = ids
+    return term_documents_dict
 
 inverted_index = get_inverted_index()
 
 
 def get_document_count():
-    file = open(config.INDEX_FILE, encoding='utf-8')
-    x = set()
-    size = len(file.read().split('\n')) - 1
-    for i in range(size):
-        x.add(str(i))
-    file.close()
-    return x
+    result = db.execute_query("SELECT array_agg(id) as ids FROM documents")
+    return set(result[0][0])
 
 def tokenize(s):
     # токенизатор на регулярных выражениях
@@ -98,7 +107,6 @@ def evaluate(tokens):
 
 
 def tokenize_query(query):
-    negations_indices = []
     tokenized_query = []
 
     for (index, word) in enumerate(query.split(' ')):
@@ -133,6 +141,4 @@ def test():
 
 if __name__ == '__main__':
     query = sys.argv[1]
-
-    # test()
     search(query)
