@@ -67,10 +67,10 @@ def search(query):
 
     searched_indices = sorted(distances.items(), key=operator.itemgetter(1), reverse=True)
 
-    titles = []
+    files = []
     for index in searched_indices:
         doc_id, tf_idf = index
         if tf_idf < 0.05:
             continue
-        titles.append(db.execute_query(f"SELECT title FROM documents WHERE id = {doc_id}")[0][0])
-    return titles
+        files.append(db.execute_query(f"SELECT id, title FROM documents WHERE id = {doc_id}")[0])
+    return files
