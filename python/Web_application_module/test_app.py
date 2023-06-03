@@ -7,6 +7,7 @@ from flask import Flask, render_template, redirect, url_for, request, send_file
 import database.db as db
 import prepare_tokens_and_lemmas
 import search_inverted_index
+import search_vector_model
 
 app = Flask(__name__)
 
@@ -33,12 +34,15 @@ def main():
 def add_message():
     text = request.form['text']
     document_files.clear()
-    result = search_inverted_index.search(text)
-    if len(result) != 0:
-        sql_str = '(' + ', '.join(map(str, result)) + ')'
-        titles = db.execute_query(f"SELECT array_agg(title) as titles FROM documents WHERE id IN {sql_str}")
-        for title in titles[0][0]:
-            document_files.append(Document_file(text=title))
+    titles = search_vector_model.search(text)
+    for title in titles:
+        document_files.append(Document_file(text=title))
+    # result = search_inverted_index.search(text)
+    # if len(result) != 0:
+    #     sql_str = '(' + ', '.join(map(str, result)) + ')'
+    #     titles = db.execute_query(f"SELECT array_agg(title) as titles FROM documents WHERE id IN {sql_str}")
+    #     for title in titles[0][0]:
+    #         document_files.append(Document_file(text=title))
     return redirect(url_for('main'))
 
 

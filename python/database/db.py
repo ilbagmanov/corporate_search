@@ -43,8 +43,15 @@ def tie_lemmas_to_document(lemmas, file_id):
     cursor = connection.cursor()
     for lemma in lemmas:
         lemma_id = execute_query(f"SELECT id FROM words WHERE word = '{lemma}'")[0][0]
-        cursor.execute(f"INSERT INTO word_documents (word_id, document_id) VALUES ({lemma_id}, {file_id})")
+        cursor.execute(f"INSERT INTO word_documents (word_id, document_id, count) VALUES ({lemma_id}, {file_id}, {len(lemmas[lemma])})")
         connection.commit()
+    cursor.close()
+
+
+def update_document_by_word_count(file_id, token_count):
+    cursor = connection.cursor()
+    cursor.execute(f"UPDATE documents SET word_count = {token_count} WHERE id = {file_id}")
+    connection.commit()
     cursor.close()
 
 

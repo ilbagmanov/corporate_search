@@ -39,9 +39,11 @@ def get_tokens(text):
 def prepare_tokens_and_lemmas(filename):
     file_path = os.path.join('/tmp/diploma_search', filename)
     text = textract.process(file_path).decode()
-    tokens = list(set(get_tokens(text)))
-    lemmas = get_lemmas(tokens)
-    return lemmas
+    all_tokens = get_tokens(text)
+    token_count = len(all_tokens)
+    lemmas = get_lemmas(all_tokens)
+
+    return lemmas, token_count
 
 
 def create_temporary_file(file_id):
@@ -60,7 +62,8 @@ def delete_temporary_file(file_id):
 
 def start(file_id):
     filename = create_temporary_file(file_id)
-    lemmas = prepare_tokens_and_lemmas(filename)
+    lemmas, token_count = prepare_tokens_and_lemmas(filename)
     db.save_lemmas(lemmas)
     db.tie_lemmas_to_document(lemmas, file_id)
+    db.update_document_by_word_count(file_id, token_count)
     delete_temporary_file(file_id)
