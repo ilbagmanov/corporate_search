@@ -56,7 +56,7 @@ def priority(oper):
     return -1
 
 
-def get_notaion(operands):
+def get_prn(operands):
     result = []
     stack = []
     for operand in operands:
@@ -124,7 +124,7 @@ def tokenize_query(query):
 
 def search(query):
     tokenized_query = tokenize_query(query)
-    converted_query = get_notaion(tokenized_query)
+    converted_query = get_prn(tokenized_query)
     result = evaluate(converted_query)
     print(result)
     return result
