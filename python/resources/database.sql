@@ -1,17 +1,28 @@
-CREATE TABLE documents (
-    id SERIAL PRIMARY KEY,
-    title VARCHAR(100),
-    file_data bytea
+create table documents
+(
+    id         serial
+        primary key,
+    title      varchar(100),
+    file_data  bytea,
+    word_count integer default 0 not null
 );
 
-CREATE TABLE words (
-    id SERIAL PRIMARY KEY,
-    word VARCHAR(50) UNIQUE NOT NULL
+create table words
+(
+    id   serial
+        primary key,
+    word varchar(50) not null
+        unique
 );
 
-CREATE TABLE word_documents (
-    id SERIAL PRIMARY KEY,
-    word_id INT REFERENCES words(id),
-    document_id INT REFERENCES documents(id)
+create table word_documents
+(
+    id          serial
+        primary key,
+    word_id     integer
+        references words,
+    document_id integer
+        references documents,
+    count       integer not null
 );
 

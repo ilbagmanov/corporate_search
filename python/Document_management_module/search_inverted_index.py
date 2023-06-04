@@ -5,7 +5,6 @@ from collections import defaultdict
 from nltk import RegexpTokenizer
 from pymorphy2 import MorphAnalyzer
 
-import config
 from database import db
 
 
